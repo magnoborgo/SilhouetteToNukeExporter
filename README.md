@@ -8,7 +8,7 @@ Put the script inside Silhouette's "/scripts/actions/" folder
 
 Add the shortcut on your sfxuser.py file:
 
-path = "/path/to/your/temp/export/folder/" 
+path = "/path/to/your/temp/export/folder/" </br>
 fx.bind('F10', callMethod(fx.actions["ExportNukeShapes"].execute, path))
 
 
