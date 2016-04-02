@@ -1,5 +1,5 @@
 # SilhouetteToNukeExporter
-This script exports selected shapes as Nuke Roto Shapes to a folder
+This script exports selected shapes as Nuke project file into a specified folder
 
 
 ##  Usage:
