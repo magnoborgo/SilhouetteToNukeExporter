@@ -1,6 +1,5 @@
 # SilhouetteToNukeExporter
-This script exports selected shapes as Nuke project file into a specified folder
-
+This script exports selected Shapes (and Trackers update:May 2023) as Nuke project file into a specified folder
 
 ##  Usage:
 
